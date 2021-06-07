@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="gb2312"?>
+<info>
+  <update>
+    <version>1.2.1.0</version>
+    <info>0.cbcbcbcbcbc
+1.abababab
+2.bcbcbcbcb
+    </info>
+    <dwurl></dwurl>
+  </update>
+  <aria2c>
+    <SHA1>12367BA9905921509F01B8B944AF012011CC95B6</SHA1>
+    <MD5>C5E143B5F381AC849E7A1B59A6DCBFA0</MD5>
+    <CRC32>718D9A34</CRC32>
+  </aria2c>
+  <aria2conf>
+    <SHA1>70F2312B3F2DB41944E46C54B375CA1EFA2965B5</SHA1>
+    <MD5>A8CBCFC4E9D245B3F948446B919E28AE</MD5>
+    <CRC32>653B558E</CRC32>
+  </aria2conf>
+  <ariang>
+    <SHA1>828DBCB5FEF32734BE17453CB7474C9ABACE5115</SHA1>
+    <MD5>40FA760FFD0CC688230FE7D4C2C2A771</MD5>
+    <CRC32>8256BBE3</CRC32>
+  </ariang>
+</info>
