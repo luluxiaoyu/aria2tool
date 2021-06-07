@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="gb2312"?>
 <info>
   <update>
-    <version>1.1.1.0</version>
+    <version>1.0.1.0</version>
+    <info>
+      1.abababab
+      2.bcbcbcbcb
+    </info>
     <dwurl></dwurl>
   </update>
   <aria2c>
