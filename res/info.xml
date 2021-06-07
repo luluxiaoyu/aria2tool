@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="gb2312"?>
 <info>
+   
+  <update>
+    <version>1.0.1.0</version>
+    <dwurl></dwurl>
+  </update>
   <aria2c>
     <SHA1>12367BA9905921509F01B8B944AF012011CC95B6</SHA1>
     <MD5>C5E143B5F381AC849E7A1B59A6DCBFA0</MD5>
