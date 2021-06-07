@@ -3,8 +3,8 @@
   <update>
     <version>1.2.1.0</version>
     <info>0.siwfinednwnapd
-      1.abababab
-      2.bcbcbcbcb
+1.abababab
+2.bcbcbcbcb
     </info>
     <dwurl></dwurl>
   </update>
@@ -12,6 +12,9 @@
     <notice>欢迎使用Aria2集成工具
 没啥好说的
     </notice>
+    <bb>bbb
+bbb
+    </bb>
   </information>
   <aria2c>
     <SHA1>12367BA9905921509F01B8B944AF012011CC95B6</SHA1>
