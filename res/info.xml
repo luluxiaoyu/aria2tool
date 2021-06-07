@@ -8,6 +8,11 @@
     </info>
     <dwurl>https://aria2.dnxshare.cn/res/download/V1.0.1/Aria2%20Integration%20Tool.exe</dwurl>
   </update>
+  <information>
+    <notice>欢迎使用Aria2集成工具
+没啥好说的
+    </notice>
+  </information>
   <aria2c>
     <SHA1>12367BA9905921509F01B8B944AF012011CC95B6</SHA1>
     <MD5>C5E143B5F381AC849E7A1B59A6DCBFA0</MD5>
