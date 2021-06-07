@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="gb2312"?>
 <info>
+  <update>
+    <version>2.0.0.0</version>
+    <info>暂未更新
+    </info>
+    <dwurl></dwurl>
+  </update>
+  <information>
+    <notice>欢迎使用Aria2集成工具
+这是V2.0版本，更新了很多内容
+也修复了一些BUG
+感谢大家的反馈！
+    </notice>
+    <bb>这个V2.0版本
+主体功能性更新不多
+但更新了很多细小的东西
+对着VS2019，敲了我一个下午+晚上的代码
+UI的话，就那个样了 毕竟VB.NET Winform应用美化太难了==
+    </bb>
+    <bt1>没东西</bt1>
+    <url1>0</url1>
+    <bt2>没东西</bt2>
+    <url2>0</url2>
+    <bt3>还是没东西</bt3>
+    <url3>0</url3>
+  </information>
   <aria2c>
     <SHA1>12367BA9905921509F01B8B944AF012011CC95B6</SHA1>
     <MD5>C5E143B5F381AC849E7A1B59A6DCBFA0</MD5>
